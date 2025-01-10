@@ -1,11 +1,11 @@
 package hello.servlet.web.frontcontroller.v3;
 
-import hello.servlet.web.frontcontroller.ModelVeiw;
+import hello.servlet.web.frontcontroller.ModelView;
 
 import java.util.Map;
 
 public interface ControllerV3 {
 
-    ModelVeiw process(Map<String, String> paramMap);
+    ModelView process(Map<String, String> paramMap);
 
 }

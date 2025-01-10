@@ -1,13 +1,13 @@
 package hello.servlet.web.frontcontroller.v3.controller;
 
-import hello.servlet.web.frontcontroller.ModelVeiw;
+import hello.servlet.web.frontcontroller.ModelView;
 import hello.servlet.web.frontcontroller.v3.ControllerV3;
 
 import java.util.Map;
 
 public class MemberFormControllerV3 implements ControllerV3 {
     @Override
-    public ModelVeiw process(Map<String, String> paramMap) {
-        return new ModelVeiw("new-form");
+    public ModelView process(Map<String, String> paramMap) {
+        return new ModelView("new-form");
     }
 }
