@@ -23,6 +23,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/login" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/login" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/message" />
         <option name="modules">
           <set>
