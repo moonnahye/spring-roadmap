@@ -1,0 +1,45 @@
+int number = 7;
+i=1
+for(i =1; i<=9; i++){
+    System.out.printf("%d * %d = %d", number, i, number*i);}
+for(i =1; i<=9; i++){
+    System.out.printf("%d * %d = %d", number, i, number*i).println();}
+for (i=1; i<=10; i++){
+    System.out.printf("%d", i).println();}
+for(i=10; i>=1; i--){
+    System.out.printf("%d", i).println();}
+for(i=0; i<=10; i++){
+    System.out.printf("%d",i*i).println();}
+for(i=10; i<=10; i++){
+    System.out.printf("%d",i*i).println();}
+for(i=1; i<=10; i++){
+    System.out.printf("%d",i*i).println();}
+for (i=1; i<=10; i++){
+    System.out.printf("%d", i).println();}
+for (i=2; i<=10; i=i+2){
+    System.out.printf("%d", i).println();}
+for (i=2; i<=10; i=i+2){
+    System.out.printf("%d",i*i).println();}
+for (i=1; i<=10; i++){
+    System.out.printf("%d",i*2).println();}
+int i=1;
+for ( ; i<=10; i++);
+i
+void sayHelloWorldTwice(){
+    System.out.println("Hello World");
+         System.out.println("Hello World");
+}
+sayHelloWorldTwice()
+ void sayHelloWorldThrice(){
+    System.out.println("Hello World");
+    System.out.println("Hello World");
+    System.out.println("Hello World");
+}
+sayHelloWorldThrice()
+void printLearningExperience(){
+    System.out.println("I've created my first variable");
+    System.out.println("I've created my first method");
+    System.out.println("I've ereated my first loop");
+    System.out.println("I'm excited to learn Java");
+}
+printLearningExperience()
