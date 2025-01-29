@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/item-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/item-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/itemservice-db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/itemservice-db.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet.main.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-roadmap.iml" filepath="$PROJECT_DIR$/.idea/spring-roadmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvc.main.iml" />
